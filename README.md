@@ -1,6 +1,7 @@
 <p align="center">
-<img src="images/skillsimage.png" alt="Startup / Small-Business Marketing Skills — Standalone, copy-paste AI skills for startups and small teams" width="600" />
-</p>
+<img src="images/Skillsimage.png" alt="Startup / Small-Business Marketing Skills — Standalone, copy-paste AI skills for startups and small teams" width="600" />
+</p> 
+
 <p align="center">
 <strong>Copy a skill. Paste it into any AI. Add your context. Get to work.</strong>
 </p> 
