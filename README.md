@@ -1,3 +1,10 @@
+<p align="center">
+<img src="images/skillsimage.png" alt="Startup / Small-Business Marketing Skills — Standalone, copy-paste AI skills for startups and small teams" width="600" />
+</p>
+<p align="center">
+<strong>Copy a skill. Paste it into any AI. Add your context. Get to work.</strong>
+</p> 
+
 ## What this is
  
 Most "AI prompt" collections are either a wall of one-liners or a complex system you have to install and configure. This is the middle path: **seven self-contained marketing skills**, each a single Markdown file that gives an AI model a clear role, a step-by-step process, an output format, and a quality bar for one real task.
